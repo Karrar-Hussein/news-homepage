@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [](https://karrar-hussein.github.io/news-homepage/)
+- Live Site URL: [https://karrar-hussein.github.io/news-homepage/](https://karrar-hussein.github.io/news-homepage/)
 
 ### Built with
 
